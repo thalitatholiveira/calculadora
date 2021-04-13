@@ -61,8 +61,8 @@ body {
 
     border: none;
     border-radius: 2px;
-    outline-color: #cebb8c5e;
     cursor: pointer;
+    outline: none;
 
     font-size: 18px;
     color: #554c4c;

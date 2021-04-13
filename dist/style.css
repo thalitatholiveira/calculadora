@@ -47,7 +47,11 @@ body {
     border-color: #cebb8c34;
     border-style: ridge;
 
-    text-align: right;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: right;
+
     color: white;
     font-size: 18px;
     font-weight: 500;
